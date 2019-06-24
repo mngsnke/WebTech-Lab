@@ -1,0 +1,30 @@
+.woocommerce table,.woocommerce h2 {
+    display:none;
+}
+.button_premium {
+	display: inline-block;
+	padding: 12px 24px;
+	border-radius: 8px;
+	border: 0;
+	font-weight: bold;
+	letter-spacing: 0.0625em;
+	text-decoration: none;
+	background: #5eaa59;
+	color: #fff;
+	text-align: center;
+}
+
+.button_premium:hover,
+.button_premium:focus,
+.button_premium:active {
+	background: #81d17b;
+	color: #fff;
+}
+#fdoe_premium_ad a{
+
+	color:#444;
+	text-decoration: none;
+}
+#fdoe_star_rating{
+	color:#ffb900;
+}
